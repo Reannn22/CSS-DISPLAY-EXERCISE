@@ -1,0 +1,16 @@
+h1 {
+    background-color: aquamarine;
+    border: 2px solid black;
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+    display: inline-block;
+}
+
+span {
+    /* background-color: grey; */
+    border: 2px solid black;
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+}
